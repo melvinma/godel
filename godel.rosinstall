@@ -8,4 +8,5 @@
 # Custom abb until Kinetic release happens
 - git: {local-name: abb, uri: 'https://github.com/ros-industrial/abb.git', version: kinetic-devel}
 # Custom descartes until we get changes merged in
-- git: {local-name: descartes, uri: 'https://github.com/Jmeyer1292/descartes.git', version: godel_refactor_omp}
+##- git: {local-name: descartes, uri: 'https://github.com/Jmeyer1292/descartes.git', version: godel_refactor_omp}
+- git: {local-name: descartes, uri: 'https://github.com/melvinma/descartes.git', version: kinetic-devel}
